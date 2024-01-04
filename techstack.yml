@@ -1,7 +1,8 @@
 repo_name: biroka/jekyll-cv-crafter
 report_id: 11b07220dd5359cacbd6b5f01cff6a5c
+version: 0.1
 repo_type: Public
-timestamp: '2023-11-09T16:15:59+00:00'
+timestamp: '2024-01-04T14:58:39+00:00'
 requested_by: streetturtle
 provider: github
 branch: gh-pages
@@ -16,6 +17,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/989/ruby.png
+  detection_source_url: https://github.com/biroka/jekyll-cv-crafter
   detection_source: Repo Metadata
 - name: Bundler
   description: 'A consistent environment for tracking and installing  gems and versions '
@@ -25,6 +27,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Front End Package Manager
   image_url: https://img.stackshare.io/service/2988/4e77LXIo_400x400.png
+  detection_source_url: https://github.com/biroka/jekyll-cv-crafter/blob/gh-pages/jekyll-cv-crafter.gemspec
   detection_source: jekyll-cv-crafter.gemspec
   last_updated_by: streetturtle
   last_updated_on: 2017-03-03 01:50:55.000000000 Z
@@ -36,6 +39,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/biroka/jekyll-cv-crafter
   detection_source: Repo Metadata
 - name: RubyGems
   description: Easily download, install, and use ruby software packages on your system
@@ -45,6 +49,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Package Managers
   image_url: https://img.stackshare.io/service/12795/5jL6-BA5_400x400.jpeg
+  detection_source_url: https://github.com/biroka/jekyll-cv-crafter/blob/gh-pages/jekyll-cv-crafter.gemspec
   detection_source: jekyll-cv-crafter.gemspec
   last_updated_by: streetturtle
   last_updated_on: 2017-03-03 01:50:55.000000000 Z
@@ -58,7 +63,7 @@ tools:
   category: Libraries
   sub_category: RubyGems Packages
   image_url: https://img.stackshare.io/package/18863/default_2fe576f13c88e20e645ee0a744c045ee730bcad6.png
-  detection_source_url: jekyll-cv-crafter.gemspec
+  detection_source_url: https://github.com/biroka/jekyll-cv-crafter/blob/gh-pages/jekyll-cv-crafter.gemspec
   detection_source: jekyll-cv-crafter.gemspec
   last_updated_by: streetturtle
   last_updated_on: 2017-03-03 01:50:55.000000000 Z
@@ -79,7 +84,7 @@ tools:
   category: Libraries
   sub_category: RubyGems Packages
   image_url: https://img.stackshare.io/package/18812/default_f582e4648f4682adb72d2b201218cda7f8e894ac.png
-  detection_source_url: jekyll-cv-crafter.gemspec
+  detection_source_url: https://github.com/biroka/jekyll-cv-crafter/blob/gh-pages/jekyll-cv-crafter.gemspec
   detection_source: jekyll-cv-crafter.gemspec
   last_updated_by: streetturtle
   last_updated_on: 2017-03-03 01:50:55.000000000 Z
